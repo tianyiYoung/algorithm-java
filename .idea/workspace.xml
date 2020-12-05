@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3567e705-cd3a-43b8-ac2c-d68a97acfd2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../github/unpv13e/tytest/tcpcli01.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../github/unpv13e/unpv.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../github/unpv13e/unpv.creator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../github/unpv13e/unpv.files" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../github/unpv13e/unpv.includes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../github/unpv13e/unpv13e.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../github/unpv13e/unpv13e.creator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../github/unpv13e/unpv13e.files" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../github/unpv13e/unpv13e.includes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../github/unpv13e/unpv13e/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../github/unpv13e/unpv13e/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../github/unpv13e/unpv13e/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ios/pushtest/pushtest.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ios/pushtest/pushtest.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ios/pushtest/pushtest.xcodeproj/project.xcworkspace/xcuserdata/tianyigong.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ios/pushtest/pushtest.xcodeproj/xcuserdata/tianyigong.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ios/pushtest/pushtest/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ios/pushtest/pushtest/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ios/pushtest/pushtest/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ios/pushtest/pushtest/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ios/pushtest/pushtest/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ios/pushtest/pushtest/ViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ios/pushtest/pushtest/ViewController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ios/pushtest/pushtest/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ios/pushtest/pushtestTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ios/pushtest/pushtestTests/pushtestTests.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ios/pushtest/pushtestUITests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ios/pushtest/pushtestUITests/pushtestUITests.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/mybatisdemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zhongtian/inportquality/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zhongtian/inportquality/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zhongtian/inportquality/src/main/java/HttpUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zhongtian/inportquality/src/main/java/Inportquality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zhongtian/inportquality/src/main/java/Quality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zhongtian/inportquality/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zhongtian/ztwycloud/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../changelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/BootApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/DBConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ann/AdminInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ann/AdminInfoGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ann/Excel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/cip/jeez/dao/JeezDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/cip/jeez/dao/impl/JeezDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/freemarker/DataAuthDirective.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/freemarker/FreemarkerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/interceptor/AdminOperateLogInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/interceptor/OtherSysLoginInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/jc/dao/PaymentRecordDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/jc/job/CustomerJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/jc/job/ElecTypeJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/jc/job/OrgAllJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/jc/job/PaymentRecordIncrementJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/jc/pojo/po/PaymentRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/jc/pojo/vo/JcParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/jc/pojo/vo/JcResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/jc/pojo/vo/KettleResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/jc/rest/JcApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/jc/rest/JcRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/jc/rest/JcTestTool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/jc/service/JcService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/controller/BuildStewardController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/controller/BuildStewardHistoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/controller/CommunityController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/controller/EngineerPostController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/controller/HelpController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/controller/HistoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/controller/OrgController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/controller/OrgEngineerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/controller/PostTypeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/controller/RoleCompanyController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/controller/RoleOrgController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/controller/RolePostController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/dao/BaseDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/dao/BuildStewardDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/dao/CommunityDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/dao/CustomerDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/dao/EmployeeDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/dao/EngineerPostDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/dao/HelpDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/dao/OrgDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/dao/OrgEngineerDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/dao/PostTypeDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/dao/RoleCompanyDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/dao/RoleOrgDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/dao/RolePostDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/dao/SMSDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/dao/StewardDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/dao/SwHouseDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/job/EmployeeBirthdaySMSJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/job/SwHouseJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/job/UpdateOrgEngineerJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/job/WyBuildAndCommunityAll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/job/WyEnterWeixinUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/job/WyFeeTollAllGeneral.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/job/WyFeeTollAllMeter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/job/WyFeeTollAllTemp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/job/WyFeeTollCDC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/job/WyFeeTollItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/job/WyFitment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/job/WyHouseAndCustomer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/job/WyKQData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/job/WyOrgAndMember.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/pojo/EmployeeHRVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/pojo/EmployeeVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/pojo/OrgEngineerDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/pojo/OrgEngineerVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/pojo/RoleCompanyVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/pojo/po/Build.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/pojo/po/BuildSteward.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/pojo/po/Community.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/pojo/po/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/pojo/po/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/pojo/po/EngineerPost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/pojo/po/Help.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/pojo/po/Org.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/pojo/po/OrgEngineer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/pojo/po/OrgEngineerLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/pojo/po/PostType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/pojo/po/RoleCompany.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/pojo/po/RoleOrg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/pojo/po/RolePost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/pojo/po/Steward.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/pojo/po/SwHouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/rest/ErpCarInfoApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/rest/ErpCustomerInfoApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/rest/InvokeDemoApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/rest/InvokeDemoForSaas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/rest/OrgApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/rest/StewardApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/rest/SwApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/rest/dto/CustomerDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/rest/dto/FamilyMemberDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/rest/dto/PersonalRelationDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/rest/dto/StewardDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/service/BuildStewardService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/service/CommunityService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/service/EngineerPostService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/service/HelpService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/service/LookDoorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/service/OrgEngineerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/service/OrgService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/service/PostTypeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/service/RoleCompanyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/service/RoleOrgService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/service/RolePostService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/service/SMSService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/service/StewardService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/utils/ChinesePinyinUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/ods/utils/IDCardUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/permission/service/RoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/system/controller/AdminLogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/system/dao/AdminLogDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/system/job/SysUserValidCheckJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/system/pojo/po/AdminLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/system/service/AdminLogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/wxw/dao/WxwRelationDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/wxw/enm/ActionType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/wxw/job/WxwDeleteJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/wxw/job/WxwJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/wxw/pojo/BaseEntityWxw.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/wxw/pojo/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/wxw/pojo/Org.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/wxw/pojo/PostType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/wxw/pojo/WxwRelation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/wxw/service/BaseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/admin/wxw/service/impl/BaseServiceDefaultImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/auth/controller/AuthAppController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/auth/controller/AuthRecordController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/auth/dao/AuthAppDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/auth/dao/AuthRecordDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/auth/pojo/po/AuthApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/auth/pojo/po/AuthRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/auth/service/AuthAppService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/auth/service/AuthRecordService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/common/po/BaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/common/tools/DateTimeTool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/common/tools/HttpTool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/common/tools/MD5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/common/tools/SignUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/common/tools/SingleLoginTool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/common/tools/excel/ExcelPublicUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/common/tools/excel/ExportExcelUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/common/tools/excel/POIConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/config/CipwyAppStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/config/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/config/CreateLoginUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/exchange/interceptor/CipExchangeInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/exchange/jeez2nc/controller/JeezToNC65ExchangeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/exchange/jeez2nc/entity/dto/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/exchange/jeez2nc/entity/dto/d4/D4Entry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/exchange/jeez2nc/entity/dto/d4/D4Settlement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/exchange/jeez2nc/entity/dto/d4/D4Settlementinfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/exchange/jeez2nc/entity/dto/d4/D4Ufinterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/exchange/jeez2nc/entity/dto/d4/D4Voucher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/exchange/jeez2nc/entity/dto/d4/D4VoucherBody.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/exchange/jeez2nc/entity/dto/d4/D4VoucherHead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/exchange/jeez2nc/entity/dto/d4/ObjectFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/exchange/jeez2nc/entity/dto/f2/Bill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/exchange/jeez2nc/entity/dto/f2/Billhead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/exchange/jeez2nc/entity/dto/f2/Bodys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/exchange/jeez2nc/entity/dto/f2/F2Ufinterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/exchange/jeez2nc/entity/dto/f2/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/exchange/jeez2nc/entity/dto/f2/ObjectFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/config/AuthorizationServerConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/config/CustomAuthenticationEntryPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/config/CustomLogoutSuccessHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/config/ResourceServerConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/config/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/controller/IPAddrAllowController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/controller/OAuthPermissionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/controller/OAuthRoleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/controller/OAuthUserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/dao/IPAddrAllowDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/dao/OAuthPermissionDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/dao/OAuthRoleDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/dao/OAuthUserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/pojo/po/IPAddrAllow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/pojo/po/OauthPermission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/pojo/po/SysOauthRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/pojo/po/SysOauthUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/pojo/vo/OauthPermissionVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/pojo/vo/SysOauthRoleVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/pojo/vo/SysOauthUserVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/service/IPAddrAllowService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/service/OAuthPermissionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/service/OAuthRoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/service/OAuthUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/service/impl/CustomUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/oauth2/service/impl/PermissionServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/rest/JeezRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/rest/ann/IPAllowConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/rest/controller/AuthAppRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/rest/controller/CustomerRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/rest/controller/EmployeeRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/rest/controller/OrgRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/rest/interceptor/APIInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/rest/interceptor/CIPRestAccessInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/rest/utils/RestfulUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/starter/web/job/admin/AbstractInterruptableJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/starter/web/job/admin/InterruptableJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/starter/web/job/admin/Job.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/starter/web/job/admin/KettleUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/starter/web/job/admin/NoticeWxUserUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/starter/web/job/admin/QuartzJobFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/starter/web/job/admin/QuartzJobFactoryDisallowConcurrentExecution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/starter/web/job/admin/SchedulerFactoryBeanConfiger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/starter/web/job/admin/TaskLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/starter/web/job/admin/TaskUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/starter/web/job/admin/controller/JobScheduleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/starter/web/job/admin/dao/JobScheduleDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/starter/web/job/admin/dao/JobScheduleJNLDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/starter/web/job/admin/job/CanInterrupteJobDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/starter/web/job/admin/job/CommonJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/starter/web/job/admin/job/DemoJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/starter/web/job/admin/pojo/JobResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/starter/web/job/admin/pojo/JobSchedule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/starter/web/job/admin/pojo/JobScheduleJNL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/starter/web/job/admin/service/JobScheduleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/starter/web/job/config/JobProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/wxoauth2/controller/WxOauth2LogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/wxoauth2/controller/WxworkLoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/wxoauth2/dao/WxOauth2LogDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/wxoauth2/interceptor/WxOauth2Interceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/wxoauth2/pojo/po/WxOauth2Log.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/wxoauth2/service/WxOauth2LogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/cn/ztcn/wxoauth2/service/WxOauth2Service.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/ehcache.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/messages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/static/bootstrap-treeview/css/bootstrap-treeview.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/static/bootstrap-treeview/js/bootstrap-treeview.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/auth/app/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/auth/app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/auth/record/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/help.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/jc/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/oauth2/ip_allow/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/oauth2/ip_allow/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/oauth2/permission/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/oauth2/permission/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/oauth2/role/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/oauth2/role/lookup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/oauth2/user/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/oauth2/user/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/ods/buildSteward/addForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/ods/buildSteward/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/ods/buildSteward/mobileForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/ods/buildStewardHistory/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/ods/engineerPost/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/ods/history/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/ods/orgEngineer/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/ods/roleCompany/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/ods/roleOrg/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/ods/rolePost/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/starter-web-job/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/starter-web-job/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/system/adminLog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/admin/wxoauth2log/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/test/ztcn/EmpBirthdaySmsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/test/ztcn/TimecardDaoTest.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/tianyi/algorithm/BloomFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.9.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-123">
+              <caret line="108" column="22" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.9.jdk/Contents/Home/lib/src.zip!/java.base/java/util/BitSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="156" column="11" selection-start-line="156" selection-start-column="11" selection-end-line="156" selection-end-column="11" />
+              <folding>
+                <element signature="e#3380#3381#0" expanded="true" />
+                <element signature="e#3436#3437#0" expanded="true" />
+                <element signature="e#5092#5093#0" expanded="true" />
+                <element signature="e#5148#5149#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jrt:///Library/Java/JavaVirtualMachines/jdk-11.0.9.jdk/Contents/Home!/jdk.internal.vm.compiler/org/graalvm/compiler/lir/hashing/HashFunction.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="27" column="33" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#2084#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hash</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/tianyi/algorithm/BloomFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/tianyi/algorithm/BloomFilter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="algorithm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm-java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="jdk.internal.vm.compiler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="jdk.internal.vm.compiler" type="462c0819:PsiDirectoryNode" />
+              <item name="providers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="jdk.internal.vm.compiler" type="462c0819:PsiDirectoryNode" />
+              <item name="graalvm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="jdk.internal.vm.compiler" type="462c0819:PsiDirectoryNode" />
+              <item name="graalvm" type="462c0819:PsiDirectoryNode" />
+              <item name="compiler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="jdk.internal.vm.compiler" type="462c0819:PsiDirectoryNode" />
+              <item name="graalvm" type="462c0819:PsiDirectoryNode" />
+              <item name="compiler" type="462c0819:PsiDirectoryNode" />
+              <item name="lir" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="jdk.internal.vm.compiler" type="462c0819:PsiDirectoryNode" />
+              <item name="graalvm" type="462c0819:PsiDirectoryNode" />
+              <item name="compiler" type="462c0819:PsiDirectoryNode" />
+              <item name="lir" type="462c0819:PsiDirectoryNode" />
+              <item name="hashing" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607157829409" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3567e705-cd3a-43b8-ac2c-d68a97acfd2b" name="Default Changelist" comment="" />
+      <created>1607048770899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607048770899</updated>
+      <workItem from="1607048776613" duration="6366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6366000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="JRebel" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26967096" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" weight="0.32960597" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" weight="0.32960597" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///Library/Java/JavaVirtualMachines/jdk-11.0.9.jdk/Contents/Home!/jdk.internal.vm.compiler/META-INF/providers/org.graalvm.compiler.hotspot.amd64.PluginFactory_AMD64X87MathIntrinsicNode">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.9.jdk/Contents/Home/lib/src.zip!/java.base/java/util/BitSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="156" column="11" selection-start-line="156" selection-start-column="11" selection-end-line="156" selection-end-column="11" />
+          <folding>
+            <element signature="e#3380#3381#0" expanded="true" />
+            <element signature="e#3436#3437#0" expanded="true" />
+            <element signature="e#5092#5093#0" expanded="true" />
+            <element signature="e#5148#5149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///Library/Java/JavaVirtualMachines/jdk-11.0.9.jdk/Contents/Home!/jdk.internal.vm.compiler/org/graalvm/compiler/lir/hashing/HashFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#2084#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.9.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-123">
+          <caret line="108" column="22" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tianyi/algorithm/BloomFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>algorithm-java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
