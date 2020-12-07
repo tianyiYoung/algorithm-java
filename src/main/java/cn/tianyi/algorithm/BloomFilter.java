@@ -1,6 +1,7 @@
 package cn.tianyi.algorithm;
 
-import org.graalvm.compiler.lir.hashing.HashFunction;
+
+import cn.tianyi.algorithm.util.HashFunction;
 
 import java.util.BitSet;
 
@@ -32,11 +33,38 @@ public class BloomFilter {
      */
     private static BitSet bitset = new BitSet(DEFAULT_SIZE);
 
+    static {
+        for(int i  = 0; i < seeds.length; i++){
+            functions[i] = new HashFunction(DEFAULT_SIZE, seeds[i]);
+        }
+    } 
+
+    /**
+     * 添加元素
+     * @param value
+     */
     public static void add(String value){
         if(value != null){
             for(HashFunction f : functions){
-                bitset.set(f.hashCode(),true);
+                bitset.set(f.hash(value),true);
             }
         }
+    }
+
+    /**
+     * 判断相应元素是否存在
+     */
+    public static boolean contains(String value){
+        if(value == null){
+            return false;
+        }
+        boolean ret = true;
+        for (HashFunction f : functions){
+            ret = bitset.get(f.hash(value));
+            if(!ret) {
+                break;
+            }
+        }
+        return ret;
     }
 }
